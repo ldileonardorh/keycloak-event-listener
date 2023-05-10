@@ -34,6 +34,7 @@ This generates target/sso-event-listener-provider.jar**
 3. Click on "Event Listener" field, a drowdown will apper and will see 'Pernexus.EventListener-v1'
 4. By Clicking on that Event listener will be added to the combo.
 5. Click Save.
+![Alt text](SSO_1.png "Event Listener Activation")
 
 # Make it operate
 1. Tail server.log on your server (all nodes if running a cluster, you don't know which node will be involved in user events, it depends on load balancer).
