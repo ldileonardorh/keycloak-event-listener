@@ -42,5 +42,6 @@ This generates target/sso-event-listener-provider.jar**
 
 ### Effects
 In log tail you shuld be able to see messages like this one
+![Alt text](SSO_2.png"Log outcome")
 
 
